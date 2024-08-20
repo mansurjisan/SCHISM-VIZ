@@ -1,3 +1,4 @@
+#added state coastline in the map plot
 import numpy as numpy
 import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
